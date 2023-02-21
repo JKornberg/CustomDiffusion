@@ -54,11 +54,13 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
-
+**.jpg
+**.png
+data/
 # Translations
 *.mo
 *.pot
-
+*.ckpt
 # Django stuff:
 *.log
 local_settings.py
