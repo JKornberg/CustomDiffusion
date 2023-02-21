@@ -1,7 +1,7 @@
 training_data/
 results/
 
-
+**.zip
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
